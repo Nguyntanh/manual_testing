@@ -16,11 +16,14 @@
 | 4   | Hà Ngọc Minh    | BIT230495 | **Manual Tester**  | Thiết kế Test Cases Module Product & Cart.          |
 | 5   | Phạm Quang Minh | BIT230484 | **Defect Manager** | Thực thi Test, Tìm lỗi & Báo cáo Bug.               |
 
-## 3. Trạng thái dự án (Test Dashboard)
+## 3. Trạng thái dự án (Test Dashboard - Final)
 
 - **Tổng số Test Cases:** 45
-- **Trạng thái thực thi:** 0% (Đang trong giai đoạn thiết kế)
-- **Tổng số lỗi phát hiện:** 0
+- **Trạng thái thực thi:** **100% (45/45 TC)**
+- **Tỷ lệ Đạt (Pass):** **75.6% (34 TC)**
+- **Tỷ lệ Lỗi (Fail):** **24.4% (11 TC)**
+- **Tổng số lỗi phát hiện:** **11 Bug Reports**
+- **Quyết định cuối cùng:** 🔴 **NO-RELEASE** (Hệ thống còn tồn tại lỗi Critical & Major).
 
 ## 4. Công cụ sử dụng
 
